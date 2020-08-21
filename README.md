@@ -1,4 +1,4 @@
-# cse299_project URL
+# Junior Design Project
 
 [Project Link](https://github.com/NSU-SU19CSE299S08/SU19CSE299S08G03NSU)
 
